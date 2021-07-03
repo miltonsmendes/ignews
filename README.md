@@ -25,3 +25,4 @@ In this App I could pratice these features:
   * Dynamic pages
 
 
+![Home Screen](https://github.com/miltonsmendes/ignews/blob/main/Home%20Screen.PNG)

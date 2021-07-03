@@ -1,5 +1,7 @@
 # ignews
 
+# Technologies
+
 App resulted from a study on Rocketseat's ReactJS bootcamp. A JAMSTACK application.
 
 These following technologies were used:
@@ -13,6 +15,8 @@ These following technologies were used:
   * FaunaDB (DataBase)
   * Prismic ( CMS )
 
+# Features
+
 In this App I could pratice these features:
   * Build an autentication system using third social apps (Github account)
   * API Routes
@@ -24,6 +28,7 @@ In this App I could pratice these features:
   * Introduction about DataBase integration with FrontEnd
   * Dynamic pages
 
+# Preview screens
 
 ![Home Screen](https://github.com/miltonsmendes/ignews/blob/main/screens/Home%20Screen.PNG)
 ![Pay Screen](https://github.com/miltonsmendes/ignews/blob/main/screens/Pay%20Screen.PNG)

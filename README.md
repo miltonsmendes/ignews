@@ -25,4 +25,7 @@ In this App I could pratice these features:
   * Dynamic pages
 
 
-![Home Screen](https://github.com/miltonsmendes/ignews/blob/main/Home%20Screen.PNG)
+![Home Screen](https://github.com/miltonsmendes/ignews/blob/main/screens/Home%20Screen.PNG)
+![Pay Screen](https://github.com/miltonsmendes/ignews/blob/main/screens/Pay%20Screen.PNG)
+![Posts Screen](https://github.com/miltonsmendes/ignews/blob/main/screens/Posts%20Screen.PNG)
+![Preview Screen](https://github.com/miltonsmendes/ignews/blob/main/screens/Preview%20Screen.PNG)
